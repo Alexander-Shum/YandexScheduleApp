@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">YandexApiTest</string>
+    <string name="schedule_title">Расписание пригородоного и международного транспорта</string>
+    <string name="find">Найти</string>
+    <string name="to">Куда</string>
+    <string name="from">Откуда</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="date">Дата</string>
+    <string name="any">Любой</string>
+    <string name="plane">Самолет</string>
+    <string name="train">Поезд</string>
+    <string name="electric_train">Электричка</string>
+    <string name="bus">Автобус</string>
+    <string name="water">Водный транспорт</string>
+    <string name="helicopter">Вертолет</string>
+    <string name="unknown">Неизвестно</string>
+    <string name="fill_all_fields">Пожалуйста, укажите станцию отправления и назначения</string>
+    <string name="not_found">Расписание для данного маршрута не доступно</string>
+    <string name="unknown_error">unknown error</string>
+    <string name="schedule">Расписание</string>
+</resources>
